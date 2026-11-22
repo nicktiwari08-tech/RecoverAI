@@ -1,5 +1,5 @@
 # 💰 RecoverAI
-
+![Dashboard](Screenshot%202026-11-22%20185449.png)
 ## Intelligent Revenue Recovery & Collection Strategy System
 
 RecoverAI is an intelligent revenue recovery dashboard designed to help businesses identify customers with delayed payments, analyze payment risk, prioritize recovery cases, and recommend suitable recovery strategies.
