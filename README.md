@@ -15,7 +15,7 @@ The system analyzes customer payment data and converts it into actionable insigh
 - 🎯 Risk Score calculation
 - 🔴 High, 🟡 Medium and 🟢 Low Risk Classification
 - 🚨 Recovery Priority Score
-- 🧠 AI-powered Recovery Insights
+- 🧠 Smart Recovery Insights
 - 🤖 Personalized Recovery Strategy
 - 💰 Revenue at Risk Analysis
 - 📌 Executive Recovery Summary
@@ -92,7 +92,7 @@ RecoverAI helps solve this problem by analyzing payment behaviour, identifying r
 - Automated reminders
 - Real-time payment data integration
 - Advanced customer segmentation
-- AI-powered recovery assistant
+- Smart recovery assistant
 
 ---
 
